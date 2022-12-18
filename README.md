@@ -1,3 +1,7 @@
+ A simple pagination tool built using react without any third party libraries. 
+ The product data is being fetched from an e-commerce api 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
